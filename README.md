@@ -1,5 +1,7 @@
 # TheMetalBall
-Build of my game "TheMetalBall" still in development.
+Build of my game "TheMetalBall" which is still in development.
+
+
 
 You can downloud it here too: [https://mike-cruz.itch.io/thelastzaxxon](https://mike-cruz.itch.io/the-metal-ball)
 
